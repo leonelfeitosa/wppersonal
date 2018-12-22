@@ -1,0 +1,29 @@
+.wp-post-image{
+    float: left;
+    margin: 0 15px 10px 0;
+    border-radius: 6px;
+}
+
+.teste{
+    font-size: 120px;
+}
+
+.verde{
+    background: green;
+    color: #fff;
+    font-weight: bold;
+}
+
+.vermelho{
+
+    color: red;
+    font-weight: bold;
+
+}
+
+.noticia-destaque{
+}
+
+
+
+
